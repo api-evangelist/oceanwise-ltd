@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OceanWise Ltd is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.oceanwise.eu
+OceanWise Ltd provides marine environmental monitoring, mapping, and data management solutions. They deliver customized, reliable tools for ports, harbours, energy providers, governments, and agencies, focusing on safety, sustainability, and smart maritime operations. Their global presence includes services in compliance, asset management, and training, aiming to enable safer and smarter management of marine data and operations.
+
+**Areas:** Company · Marine · Environmental Monitoring · Data Management · Mapping
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.oceanwise-global.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/oceanwise-ltd/](https://apis.io/providers/oceanwise-ltd/).
